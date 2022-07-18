@@ -7,7 +7,7 @@ O curso tem duração de 18 semanas e o conteúdo de cada semana e os projetos p
 - [Semana 15 |Automações de Testes](https://github.com/mariaftavares/ON15-TET-S15-TESTES/tree/Maria_Fernanda_Tavares/para_o_lar)
 - [Semana 14 |Aplicar Autenticação/Autorização: JWT](https://github.com/mariaftavares/ON15-TET-S14-AUTH/tree/Maria_Fernanda_Tavares/para-o-lar)
 
-- [Semana 13 |Projeto Guiado IV](https://github.com/mariaftavares/ON15-TET-S13-PG-III/tree/Maria_Fernanda_Tavares/projetoSemana13)
+- [Semana 13 |Projeto Guiado III](https://github.com/mariaftavares/ON15-TET-S13-PG-III/tree/Maria_Fernanda_Tavares/projetoSemana13)
 
 - [Semana 12 |Introdução ao Banco de Dados e Integração](https://github.com/mariaftavares/ON15-TET-S12-BD/tree/Maria_Fernanda_Tavares/para_o_lar)
 - [Semana 11 |Revisão CRUD](https://github.com/mariaftavares/ON15-TET-S11-PG-II/tree/Maria_Fernanda_Tavares/para-o-lar)
