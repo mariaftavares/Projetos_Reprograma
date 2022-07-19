@@ -1,6 +1,6 @@
 # Projetos práticos e conteúdos das semanas
 ### Curso imersivo para especialização em Desenvolvimento Back-End
-O curso tem duração de 18 semanas e o conteúdo de cada semana e os projetos práticos realizados foram:
+O curso tem duração de 15 semanas e o conteúdo de cada semana e os projetos práticos realizados foram:
 <hr>
 
 - [Projeto de conclusão do curso |Em Andamento](https://github.com/mariaftavares/encontreiumanjinho)
